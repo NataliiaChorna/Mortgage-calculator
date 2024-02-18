@@ -32,8 +32,6 @@ test
 
 ![An Image](images/input_data_mc.png)
 
-![An Image](images/input_data_mc.png)
-
 <divalign="left">
    <a "href="https://www.youtube.com/watch?v=qvTJTjIQVRw">
       <img src="https://www.youtube.com/watch?v=qvTJTjIQVRw">
