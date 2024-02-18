@@ -30,9 +30,3 @@ test
 ## Result  
 [Nathalie.Chorna@gmail.com](mailto:Nathalie.Chorna@gmail.com)
 
-
-<divalign="left">
-   <a "href="https://www.youtube.com/watch?v=qvTJTjIQVRw">
-      <img src="https://www.youtube.com/watch?v=qvTJTjIQVRw">
-
-</div>
