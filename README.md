@@ -24,7 +24,7 @@ The mortgage consists of 2 parts: input data and results. For receiving the resu
 | col2 text | col3 text | 
 
 test
- 
+
 test
 
 ## Result  
