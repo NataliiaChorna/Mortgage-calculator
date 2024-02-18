@@ -12,11 +12,11 @@ The mortgage calculator is designed to calculate the mortgage payment depending 
 
 ## How it works
 The mortgage consists of 2 parts: input data and results. For receiving the result you should input your data in the first part:
-
+![An Image](images/input_data_mc.png)
 ## Input data
 | **Action** | **Screenshot** |
 --- | --- 
-| In the field “Mortgage debit” enter the amount of your Mortgage, using the arrow “Up” and “Down” | ![An Image](images/input_data_mc.png) | 
+| In the field “Mortgage debit” enter the amount of your Mortgage, using the arrow “Up” and “Down” | col2 text | 
 | col1 text | col2 text | 
 | col1 text | col2 text | 
 | col1 text | col2 text |
