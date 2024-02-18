@@ -30,7 +30,6 @@ test
 ## Result  
 [Nathalie.Chorna@gmail.com](mailto:Nathalie.Chorna@gmail.com)
 
-![An Image](images/input_data_mc.png)
 
 <divalign="left">
    <a "href="https://www.youtube.com/watch?v=qvTJTjIQVRw">
